@@ -17,7 +17,7 @@ The dashboard explores sales performance, profitability, customer segments, prod
 
 ### Page 1: Sales Overview
 
-![Sales Overview Dashboard](superstore page 1.png)
+![Sales Overview Dashboard](./superstore%20page%201.png)
 
 This page provides an overview of business performance, including:
 
@@ -31,7 +31,7 @@ This page provides an overview of business performance, including:
 
 ### Page 2: Profitability & Returns
 
-![Profitability and Returns Dashboard](superstore page 2.png)
+![Profitability and Returns Dashboard](./superstore%20page%202.png)
 
 This page focuses on:
 
