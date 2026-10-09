@@ -65,8 +65,9 @@ This page focuses on:
 
 ##  Project Files
 
-* `Superstore_Sales_Analysis.pbix` — Interactive Power BI report.
-* `screenshots/` — Images of both dashboard pages.
+* `./superstore.pbix.` — Interactive Power BI report.
+* `./superstore page 1.png`
+  `./superstore page 2.png` — Images of both dashboard pages.
 
 ##  How to Explore the Project
 
